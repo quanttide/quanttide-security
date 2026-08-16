@@ -27,6 +27,7 @@
 | `examples/default` | 安全工程实验室 (git submodule → quanttide-laboratory-of-security-engineering) |
 | `data/context` | 安全工程语境 (git submodule → quanttide-context-of-security-engineering) |
 | `data/journal` | 安全工程日志 (git submodule → quanttide-journal-of-security-engineering) |
+| `data/intention` | 安全工程意图 (git submodule → quanttide-intention-of-security-engineering) |
 
 ## 许可
 
