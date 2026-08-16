@@ -13,6 +13,14 @@
 - 数据安全：加密、脱敏、数据防泄漏
 - 安全运营：威胁监测、应急响应、安全审计与合规
 
+## 子模块
+
+| 路径 | 说明 |
+|------|------|
+| `apps/qtcloud-security` | QtCloud 安全云 (git submodule) |
+| `packages/quanttide-security-toolkit` | 网络安全工具集 (git submodule) |
+| `examples/default` | 网络安全实验室 (git submodule → quanttide-laboratory-of-software-security) |
+
 ## 许可
 
 [CC BY 4.0](LICENSE)

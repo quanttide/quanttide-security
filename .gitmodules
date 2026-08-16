@@ -1,0 +1,9 @@
+[submodule "apps/qtcloud-security"]
+	path = apps/qtcloud-security
+	url = https://github.com/quanttide/qtcloud-security.git
+[submodule "packages/quanttide-security-toolkit"]
+	path = packages/quanttide-security-toolkit
+	url = https://github.com/quanttide/quanttide-security-toolkit.git
+[submodule "examples/default"]
+	path = examples/default
+	url = https://github.com/quanttide/quanttide-laboratory-of-software-security.git
