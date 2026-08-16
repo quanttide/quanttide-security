@@ -19,6 +19,7 @@
 - 语境仓库新增工作流总结：`security-audit-poc-workflow.md`（子模块 `data/context`）
 - QtCloud 安全云三端 MVP 落地（子模块 `apps/qtcloud-security`）：provider/studio/cli 并行开发并合并联调，端到端复现实验室审计流程（8 层扫描 → 归一化 → 台账 → 状态机 → 报告）
 - QtCloud 安全云自举（子模块 `apps/qtcloud-security` @ `01ef899`）：`bootstrap.sh` 从零构建三端+质量门禁、`self-scan.sh` 平台扫平台（dogfooding），自审首扫 5 High → 复测 0 High（修复 provider 间接依赖 `golang.org/x/text` CVE-2026-56852、gitleaks 仓库级 allowlist 消除测试夹具误报）
+- QtCloud 安全云 cli 改为 **Rust 实现**（子模块 `apps/qtcloud-security` @ `2e65ebe`）：clap/serde/reqwest 重写，行为契约等价（多模块展开、线程泵限量、govulncheck 流式解析）；自扫验证 RawResult/台账与 Go 基线一致；修复 gosec 单模块空扫与 provider G101 硬编码 dev 密钥（随机生成），Rust 依赖（Cargo.lock）自扫零漏洞
 
 ### 变更
 
