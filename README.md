@@ -19,7 +19,7 @@
 |------|------|
 | `apps/qtcloud-security` | QtCloud 安全云 (git submodule) |
 | `packages/quanttide-security-toolkit` | 网络安全工具集 (git submodule) |
-| `examples/default` | 网络安全实验室 (git submodule → quanttide-laboratory-of-software-security) |
+| `examples/default` | 网络安全实验室 (git submodule → quanttide-laboratory-of-security-engineering) |
 
 ## 许可
 

@@ -6,4 +6,4 @@
 	url = https://github.com/quanttide/quanttide-security-toolkit.git
 [submodule "examples/default"]
 	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-software-security.git
+	url = https://github.com/quanttide/quanttide-laboratory-of-security-engineering.git

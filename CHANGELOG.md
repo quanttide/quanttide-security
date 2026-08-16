@@ -14,6 +14,10 @@
 
 - 注册子模块：`apps/qtcloud-security`、`packages/quanttide-security-toolkit`、`examples/default`
 
+### 变更
+
+- 实验室仓库更名：`quanttide-laboratory-of-software-security` → `quanttide-laboratory-of-security-engineering`
+
 ## [0.1.0] - 2026-08-16
 
 ### 新增
