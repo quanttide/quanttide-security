@@ -1,10 +1,10 @@
 # quanttide-security
 
-量潮网络安全
+量潮安全工程
 
 ## 概述
 
-量潮网络安全（quanttide-security）是量潮知识管理体系中的**网络安全**领域，涵盖网络、应用与数据安全的防护与运营实践。
+量潮安全工程（quanttide-security）是量潮知识管理体系中的**安全工程**领域，涵盖网络、应用与数据安全的防护与运营实践。
 
 ## 领域边界
 
@@ -18,8 +18,8 @@
 | 路径 | 说明 |
 |------|------|
 | `apps/qtcloud-security` | QtCloud 安全云 (git submodule) |
-| `packages/quanttide-security-toolkit` | 网络安全工具集 (git submodule) |
-| `examples/default` | 网络安全实验室 (git submodule → quanttide-laboratory-of-security-engineering) |
+| `packages/quanttide-security-toolkit` | 安全工程工具集 (git submodule) |
+| `examples/default` | 安全工程实验室 (git submodule → quanttide-laboratory-of-security-engineering) |
 
 ## 许可
 

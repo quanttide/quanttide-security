@@ -16,6 +16,7 @@
 
 ### 变更
 
+- 领域中文名更名：网络安全 → 安全工程
 - 实验室仓库更名：`quanttide-laboratory-of-software-security` → `quanttide-laboratory-of-security-engineering`
 
 ## [0.1.0] - 2026-08-16
