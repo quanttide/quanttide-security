@@ -14,7 +14,7 @@
 
 - 注册子模块：`apps/qtcloud-security`、`packages/quanttide-security-toolkit`、`examples/default`
 - 注册子模块：`data/context`、`data/journal`
-- 实验室新增 PoC 规划：漏洞管理与安全审计（对象 qtcloud-secret，子模块 `examples/default`）
+- 实验室 PoC-001 执行完成：漏洞管理与安全审计（对象 qtcloud-secret @ `cec7701`；产出漏洞台账 v1、审计报告 v1、复盘报告 v1 与 8 层扫描产物，子模块 `examples/default`）
 
 ### 变更
 
