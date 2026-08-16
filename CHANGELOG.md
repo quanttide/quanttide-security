@@ -17,6 +17,7 @@
 ### 变更
 
 - 领域中文名更名：网络安全 → 安全工程
+- 领域定义完善：概述、领域边界（五个能力域）、与 secret/auth/devops 领域的分工
 - 实验室仓库更名：`quanttide-laboratory-of-software-security` → `quanttide-laboratory-of-security-engineering`
 
 ## [0.1.0] - 2026-08-16
