@@ -24,7 +24,7 @@
 |------|------|
 | `apps/qtcloud-security` | QtCloud 安全云 (git submodule) |
 | `packages/quanttide-security-toolkit` | 安全工程工具集 (git submodule) |
-| `examples/default` | 安全工程实验室 (git submodule → quanttide-laboratory-of-security-engineering) |
+| `examples/quanttide-security-lab` | 安全工程实验室 (git submodule → quanttide-security-lab) |
 | `data/context` | 安全工程语境 (git submodule → quanttide-context-of-security-engineering) |
 | `data/journal` | 安全工程日志 (git submodule → quanttide-journal-of-security-engineering) |
 | `data/intention` | 安全工程意图 (git submodule → quanttide-intention-of-security-engineering) |
